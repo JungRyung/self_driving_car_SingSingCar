@@ -1,2 +1,5 @@
 ### UNIX excutable files ###
 results/
+
+### macOS ###
+.DS_Store
